@@ -1,0 +1,1 @@
+console.log(`mqtt_${Math.random().toString(16).slice(3)}`)
